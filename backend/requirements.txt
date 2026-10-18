@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+certifi
+httpx
+PyMySQL
+python-dotenv
+alembic
